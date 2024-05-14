@@ -1,17 +1,22 @@
 ### English README.md
 
-**TorbTerm: An AI-Powered Terminal Assistant**
+<details>
+<summary><strong>TorbTerm: An AI-Powered Terminal Assistant</strong></summary>
 
 TorbTerm is a terminal-based AI assistant powered by Google's Gemini model. It allows you to interact with your operating system using natural language, making terminal tasks easier and more intuitive.
+</details>
 
-#### Features
+<details>
+<summary><strong>Features</strong></summary>
 
 - **Natural Language Interaction:** Issue commands to your terminal using natural language instead of memorizing complex syntax.
 - **Cross-Platform Compatibility:** Works on macOS, Windows, and Linux.
 - **System-Specific Shell Support:** Automatically uses the appropriate shell for your operating system (zsh, PowerShell, or bash).
 - **Contextual Conversation:** Maintains a history of your interactions for more relevant responses.
+</details>
 
-#### Getting Started
+<details>
+<summary><strong>Getting Started</strong></summary>
 
 **Prerequisites**
 
@@ -49,7 +54,7 @@ Type your natural language instructions in the terminal.
 
 TorbTerm will process your requests, execute commands, and provide responses.
 
-#### How to Get a Google API Key
+**How to Get a Google API Key**
 
 1. Go to Google AI Platform: Visit the [Google AI Platform](https://cloud.google.com/ai-platform).
 2. Sign in or create an account.
@@ -57,8 +62,10 @@ TorbTerm will process your requests, execute commands, and provide responses.
 4. Create a new API key:
    - Click on "Create Credentials" and select "API key."
    - Copy the generated API key.
+</details>
 
-#### Examples
+<details>
+<summary><strong>Examples</strong></summary>
 
 ```
 You: what is the current directory?
@@ -70,21 +77,27 @@ Torbware Assistant: @@mkdir my_project@@
 You: list all files in this directory
 Torbware Assistant: @@ls -l@@
 ```
+</details>
 
 ### Portuguese README.md
 
-**TorbTerm: Um Assistente de Terminal com IA**
+<details>
+<summary><strong>TorbTerm: Um Assistente de Terminal com IA</strong></summary>
 
 TorbTerm é um assistente de terminal baseado em IA, desenvolvido com o modelo Gemini do Google. Ele permite que você interaja com o seu sistema operacional usando linguagem natural, tornando as tarefas do terminal mais fáceis e intuitivas.
+</details>
 
-#### Recursos
+<details>
+<summary><strong>Recursos</strong></summary>
 
 - **Interação em Linguagem Natural:** Emita comandos para o seu terminal usando linguagem natural em vez de memorizar sintaxe complexa.
 - **Compatibilidade entre Plataformas:** Funciona em macOS, Windows e Linux.
 - **Suporte a Shell Específico do Sistema:** Usa automaticamente o shell apropriado para o seu sistema operacional (zsh, PowerShell ou bash).
 - **Conversa Contextual:** Mantém um histórico das suas interações para respostas mais relevantes.
+</details>
 
-#### Como Começar
+<details>
+<summary><strong>Como Começar</strong></summary>
 
 **Pré-requisitos**
 
@@ -122,7 +135,7 @@ Digite suas instruções em linguagem natural no terminal.
 
 TorbTerm processará suas solicitações, executará comandos e fornecerá respostas.
 
-#### Como Obter uma Chave de API do Google
+**Como Obter uma Chave de API do Google**
 
 1. Acesse o Google AI Platform: Visite o [Google AI Platform](https://cloud.google.com/ai-platform).
 2. Faça login ou crie uma conta.
@@ -130,8 +143,10 @@ TorbTerm processará suas solicitações, executará comandos e fornecerá respo
 4. Crie uma nova chave de API:
    - Clique em "Criar Credenciais" e selecione "Chave de API."
    - Copie a chave de API gerada.
+</details>
 
-#### Exemplos
+<details>
+<summary><strong>Exemplos</strong></summary>
 
 ```
 Você: qual é o diretório atual?
@@ -143,3 +158,4 @@ Torbware Assistant: @@mkdir meu_projeto@@
 Você: liste todos os arquivos neste diretório
 Torbware Assistant: @@ls -l@@
 ```
+</details>
